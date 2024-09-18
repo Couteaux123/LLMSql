@@ -1,4 +1,2 @@
-argparse
-torch==2.1.0
-transformers
-sqlparse
+accelerate
+mysql-connector-python
