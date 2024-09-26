@@ -1,4 +1,4 @@
-#** LLMSql**
+**# LLMSql**
 
 **## Installing SQLCoder**
 
